@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-places-react-native",
+  "capabilityKey": "liberusoftware/module-genealogy-places",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-genealogy-places-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/genealogy/nextjs/places.md",
+  "presentationPlan": "projects/genealogy/react-native/places.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
